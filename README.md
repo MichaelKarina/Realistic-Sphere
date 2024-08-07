@@ -22,6 +22,7 @@ To get started with this project, follow these steps:
    git clone https://github.com/MichaelKarina/realistic-rotating-sphere.git
    cd realistic-rotating-sphere
 2. Install dependencies (if any):
+   ```bash
    npm install
 3.Open index.html in your web browser to see the rotating sphere in action.
 
