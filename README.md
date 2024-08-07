@@ -24,7 +24,7 @@ To get started with this project, follow these steps:
 2. Install dependencies (if any):
    ```bash
    npm install
-3.Open `index.html` in your web browser to see the rotating sphere in action.
+3.Open <details>`index.html`</details> in your web browser to see the rotating sphere in action.
 
 ## 📁 Project Structure
 - **`app.js`: Contains the Three.js scene setup and animation logic.
