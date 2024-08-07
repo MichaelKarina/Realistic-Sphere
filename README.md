@@ -24,20 +24,27 @@ To get started with this project, follow these steps:
 2. Install dependencies (if any):
    ```bash
    npm install
-3.Open index.html in your web browser to see the rotating sphere in action.
+3.Open `index.html` in your web browser to see the rotating sphere in action.
 
 ## 📁 Project Structure
-- **'app.js'**: Contains the Three.js scene setup and animation logic.
-- **'Three.js'**: Entry point of the application, integrates app.js and manages the rendering loop.
-- **'index.html'**: HTML file that includes the necessary script tags to load index.js and display the 3D scene.
+- **`app.js`: Contains the Three.js scene setup and animation logic.
+- **'`Three.js`**: Entry point of the application, integrates app.js and manages the rendering loop.
+- **`index.html`**: HTML file that includes the necessary script tags to load index.js and display the 3D scene.
+
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/MichaelKarina?tab=repositories)
 
 ## 🤝 Contributing
 Feel free to fork this repository and make your own modifications. Pull requests are welcome!
 
 ##📧 Contact
-For any questions or inquiries, please reveal the contact information below:
-
 <details>
-  <summary>Reveal Contact Information</summary>
-  For any questions or inquiries, please reach out to me at [mikekarina68@gmail.com](mailto:mikekarina68@gmail.com).
+  <summary>Click to reveal contact information</summary>
+  
+  If you have any questions or feedback, feel free to reach out:
+
+  - **Email**: [mikekarina68@gmail.com](mailto:mikekarina68@gmail.com)
+  - **GitHub Profile**: [MichaelKarina](https://github.com/MichaelKarina)
+
 </details>
