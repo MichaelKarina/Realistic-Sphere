@@ -32,8 +32,9 @@ To get started with this project, follow these steps:
 - **`index.html`**: HTML file that includes the necessary script tags to load index.js and display the 3D scene.
 
 ## 🔗 Links
-
+<details>
 - [GitHub Repository](https://github.com/MichaelKarina?tab=repositories)
+</details>
 
 ## 🤝 Contributing
 Feel free to fork this repository and make your own modifications. Pull requests are welcome!
