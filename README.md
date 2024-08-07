@@ -26,12 +26,12 @@ To get started with this project, follow these steps:
 3.Open index.html in your web browser to see the rotating sphere in action.
 
 ## 📁 Project Structure
-- **'app.js': Contains the Three.js scene setup and animation logic.
-- **'Three.js': Entry point of the application, integrates app.js and manages the rendering loop.
-- **'index.html': HTML file that includes the necessary script tags to load index.js and display the 3D scene.
+- **'app.js'**: Contains the Three.js scene setup and animation logic.
+- **'Three.js'**: Entry point of the application, integrates app.js and manages the rendering loop.
+- **'index.html'**: HTML file that includes the necessary script tags to load index.js and display the 3D scene.
 
 ## 🤝 Contributing
-**Feel free to fork this repository and make your own modifications. Pull requests are welcome!
+Feel free to fork this repository and make your own modifications. Pull requests are welcome!
 
 ##📧 Contact
 For any questions or inquiries, please reveal the contact information below:
